@@ -1,0 +1,27 @@
+{
+  "name": "color-header",
+  "version": "1.0.0",
+  "description": "A bunch of console colors for terminal output. Port of the entire \"Escape-Sequence-Color-Header\" to javascript with no dependencies.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuxenko/color-header.git"
+  },
+  "keywords": [
+    "terminal",
+    "colors",
+    "console"
+  ],
+  "author": "Svetlana Linuxenko <linuxenko@yahoo.com> (http://www.linuxenko.pro)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/linuxenko/color-header/issues"
+  },
+  "homepage": "https://github.com/linuxenko/color-header#readme"
+}
